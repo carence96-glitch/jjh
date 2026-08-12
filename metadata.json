@@ -1,0 +1,6 @@
+{
+  "name": "칭찬 릴레이",
+  "description": "중학교 1학년 학급을 위한 실시간 칭찬 카드 공유 및 관계 형성 인성 교육 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
